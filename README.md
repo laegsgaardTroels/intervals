@@ -1,3 +1,3 @@
 # Intervals
 
-Operations on list of intervals in Python.
+Operations on lists of intervals in Python.
